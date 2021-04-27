@@ -1,0 +1,5 @@
+TO :k
+FD 100
+IF (:k = 1) izq
+IF (:k = 2) der
+END

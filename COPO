@@ -1,0 +1,8 @@
+TO :T
+IF ( :T > 2 ) FD :T , COPO ( :T / 2 ), BK :T , RT 60
+IF ( :T > 2 ) FD :T , COPO ( :T / 3 ), BK :T , RT 60
+IF ( :T > 2 ) FD :T , COPO ( :T / 3 ), BK :T , RT 60
+IF ( :T > 2 ) FD :T , COPO ( :T / 2 ), BK :T , RT 60
+IF ( :T > 2 ) FD :T , COPO ( :T / 3 ), BK :T , RT 60
+IF ( :T > 2 ) FD :T , COPO ( :T / 3 ), BK :T , RT 60
+END
